@@ -68,7 +68,7 @@
 
 
 ### 💻
-- Graphic Deginer At Codechef IIST Chapter.
+- Graphic Designer At Codechef IIST Chapter.
 
 </br>
 
