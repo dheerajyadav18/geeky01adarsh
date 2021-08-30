@@ -49,16 +49,16 @@
    <table align='center' width='250px'>
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;</td>
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+       <td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;   <!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->    </td>
       </tr>
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="HTML5" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;&nbsp;</td>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="CSS3" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;</td>
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="VS-Code" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
       </tr>
       <tr>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp; </td>
-<!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="VS-Code" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;</td>
+
       </tr>
       </table>
 </p>
